@@ -1,0 +1,8 @@
+# System
+.idea/
+.DS_Store
+
+# Project
+firm_extract.o
+firm_extract
+new_ubi.bin

@@ -1,0 +1,172 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Flattened device tree, size: 4733772 bytes, version: 17
+228           0xE4            gzip compressed data, maximum compression, has original file name: "Image", from Unix, last modified: 2020-05-07 07:59:48
+4140220       0x3F2CBC        Flattened device tree, size: 39191 bytes, version: 17
+4179692       0x3FC6EC        Flattened device tree, size: 39356 bytes, version: 17
+4219328       0x4061C0        Flattened device tree, size: 34740 bytes, version: 17
+4254348       0x40EA8C        Flattened device tree, size: 38782 bytes, version: 17
+4293412       0x418324        Flattened device tree, size: 34740 bytes, version: 17
+4328432       0x420BF0        Flattened device tree, size: 34867 bytes, version: 17
+4363580       0x42953C        Flattened device tree, size: 38728 bytes, version: 17
+4402588       0x432D9C        Flattened device tree, size: 34879 bytes, version: 17
+4437748       0x43B6F4        Flattened device tree, size: 50997 bytes, version: 17
+4489028       0x447F44        Flattened device tree, size: 39038 bytes, version: 17
+4528348       0x4518DC        Flattened device tree, size: 43543 bytes, version: 17
+4572172       0x45C40C        Flattened device tree, size: 39084 bytes, version: 17
+4611536       0x465DD0        Flattened device tree, size: 44309 bytes, version: 17
+4656128       0x470C00        Flattened device tree, size: 35039 bytes, version: 17
+4691448       0x4795F8        Flattened device tree, size: 39205 bytes, version: 17
+4825088       0x49A000        Squashfs filesystem, little endian, version 4.0, compression:xz, size: 15041950 bytes, 2230 inodes, blocksize: 262144 bytes, created: 2020-05-07 08:03:40
+20316160      0x1360000       Flattened device tree, size: 4733772 bytes, version: 17
+20316388      0x13600E4       gzip compressed data, maximum compression, has original file name: "Image", from Unix, last modified: 2020-05-07 07:59:48
+24456380      0x1752CBC       Flattened device tree, size: 39191 bytes, version: 17
+24495852      0x175C6EC       Flattened device tree, size: 39356 bytes, version: 17
+24535488      0x17661C0       Flattened device tree, size: 34740 bytes, version: 17
+24570508      0x176EA8C       Flattened device tree, size: 38782 bytes, version: 17
+24609572      0x1778324       Flattened device tree, size: 34740 bytes, version: 17
+24644592      0x1780BF0       Flattened device tree, size: 34867 bytes, version: 17
+24679740      0x178953C       Flattened device tree, size: 38728 bytes, version: 17
+24718748      0x1792D9C       Flattened device tree, size: 34879 bytes, version: 17
+24753908      0x179B6F4       Flattened device tree, size: 50997 bytes, version: 17
+24805188      0x17A7F44       Flattened device tree, size: 39038 bytes, version: 17
+24844508      0x17B18DC       Flattened device tree, size: 43543 bytes, version: 17
+24888332      0x17BC40C       Flattened device tree, size: 39084 bytes, version: 17
+24927696      0x17C5DD0       Flattened device tree, size: 44309 bytes, version: 17
+24972288      0x17D0C00       Flattened device tree, size: 35039 bytes, version: 17
+25007608      0x17D95F8       Flattened device tree, size: 39205 bytes, version: 17
+25141248      0x17FA000       Squashfs filesystem, little endian, version 4.0, compression:xz, size: 15041950 bytes, 2230 inodes, blocksize: 262144 bytes, created: 2020-05-07 08:03:40
+40661042      0x26C7032       Executable script, shebang: "/bin/sh"
+40702002      0x26D1032       Executable script, shebang: "/bin/sh"
+40716338      0x26D4832       Executable script, shebang: "/bin/sh"
+40757298      0x26DE832       Executable script, shebang: "/bin/sh"
+40759296      0x26DF000       UBIFS filesystem master node, CRC: 0xB7775DB4, highest inode: 260, commit number: 84
+40761344      0x26DF800       UBIFS filesystem master node, CRC: 0x316D6FDF, highest inode: 260, commit number: 84
+40763392      0x26E0000       UBIFS filesystem master node, CRC: 0x2AFF615C, highest inode: 261, commit number: 85
+40765440      0x26E0800       UBIFS filesystem master node, CRC: 0x3EAE7E7B, highest inode: 261, commit number: 85
+40767488      0x26E1000       UBIFS filesystem master node, CRC: 0xFFA3630E, highest inode: 268, commit number: 86
+40769536      0x26E1800       UBIFS filesystem master node, CRC: 0x79B95165, highest inode: 268, commit number: 86
+40771584      0x26E2000       UBIFS filesystem master node, CRC: 0xF75D4968, highest inode: 275, commit number: 87
+40773632      0x26E2800       UBIFS filesystem master node, CRC: 0xFB6DBC75, highest inode: 275, commit number: 87
+40775680      0x26E3000       UBIFS filesystem master node, CRC: 0xE26C0634, highest inode: 282, commit number: 88
+40777728      0x26E3800       UBIFS filesystem master node, CRC: 0xEE5CF329, highest inode: 282, commit number: 88
+40779776      0x26E4000       UBIFS filesystem master node, CRC: 0xF980110B, highest inode: 282, commit number: 89
+40962098      0x2710832       Executable script, shebang: "/bin/sh"
+40976434      0x2714032       Executable script, shebang: "/bin/sh"
+41521152      0x2799000       UBIFS filesystem superblock node, CRC: 0x5CA151EF, flags: 0x0, min I/O unit size: 2048, erase block size: 126976, erase block count: 72, max erase blocks: 72, format version: 4, compression type: lzo
+42029106      0x2815032       Executable script, shebang: "/bin/sh"
+42031154      0x2815832       Executable script, shebang: "/bin/sh"
+42072114      0x281F832       Executable script, shebang: "/bin/sh"
+42944562      0x28F4832       Executable script, shebang: "/bin/sh"
+42948659      0x28F5833       Unix path: /sys/class/net/ath0/parent ] && {
+42959548      0x28F82BC       Unix path: /var/run/son.conf
+43044864      0x290D000       UBIFS filesystem master node, CRC: 0xBB47A8A9, highest inode: 260, commit number: 84
+43046912      0x290D800       UBIFS filesystem master node, CRC: 0xB7775DB4, highest inode: 260, commit number: 84
+43048960      0x290E000       UBIFS filesystem master node, CRC: 0x26CF9441, highest inode: 261, commit number: 85
+43051008      0x290E800       UBIFS filesystem master node, CRC: 0x2AFF615C, highest inode: 261, commit number: 85
+43053056      0x290F000       UBIFS filesystem master node, CRC: 0xF3939613, highest inode: 268, commit number: 86
+43055104      0x290F800       UBIFS filesystem master node, CRC: 0xFFA3630E, highest inode: 268, commit number: 86
+43057152      0x2910000       UBIFS filesystem master node, CRC: 0xD3CF823B, highest inode: 275, commit number: 87
+43059200      0x2910800       UBIFS filesystem master node, CRC: 0xF75D4968, highest inode: 275, commit number: 87
+43061248      0x2911000       UBIFS filesystem master node, CRC: 0xA779658F, highest inode: 282, commit number: 88
+43063296      0x2911800       UBIFS filesystem master node, CRC: 0xE26C0634, highest inode: 282, commit number: 88
+43065344      0x2912000       UBIFS filesystem master node, CRC: 0xEDD10E2C, highest inode: 282, commit number: 89
+44314624      0x2A43000       UBIFS filesystem superblock node, CRC: 0x8DBB8FB6, flags: 0x0, min I/O unit size: 2048, erase block size: 126976, erase block count: 104, max erase blocks: 104, format version: 4, compression type: lzo
+44568576      0x2A81000       UBIFS filesystem master node, CRC: 0x812729F, highest inode: 66, commit number: 41
+44570624      0x2A81800       UBIFS filesystem master node, CRC: 0x1C436DB8, highest inode: 66, commit number: 41
+44572672      0x2A82000       UBIFS filesystem master node, CRC: 0x88D2E1DD, highest inode: 66, commit number: 42
+44574720      0x2A82800       UBIFS filesystem master node, CRC: 0xB888138F, highest inode: 66, commit number: 43
+44576768      0x2A83000       UBIFS filesystem master node, CRC: 0x6AEFB5BE, highest inode: 66, commit number: 44
+44578816      0x2A83800       UBIFS filesystem master node, CRC: 0xECF587D5, highest inode: 66, commit number: 44
+44580864      0x2A84000       UBIFS filesystem master node, CRC: 0xD38E45D2, highest inode: 66, commit number: 45
+44582912      0x2A84800       UBIFS filesystem master node, CRC: 0x916DED13, highest inode: 66, commit number: 46
+44584960      0x2A85000       UBIFS filesystem master node, CRC: 0xB11510B0, highest inode: 66, commit number: 47
+44587008      0x2A85800       UBIFS filesystem master node, CRC: 0xA5440F97, highest inode: 66, commit number: 47
+44589056      0x2A86000       UBIFS filesystem master node, CRC: 0xC3D6B827, highest inode: 66, commit number: 48
+44591104      0x2A86800       UBIFS filesystem master node, CRC: 0xD787A700, highest inode: 66, commit number: 48
+44593152      0x2A87000       UBIFS filesystem master node, CRC: 0xFC99FA2B, highest inode: 66, commit number: 49
+44595200      0x2A87800       UBIFS filesystem master node, CRC: 0x708DDEA6, highest inode: 66, commit number: 50
+44597248      0x2A88000       UBIFS filesystem master node, CRC: 0xCC2166A2, highest inode: 66, commit number: 51
+44599296      0x2A88800       UBIFS filesystem master node, CRC: 0xC01193BF, highest inode: 66, commit number: 51
+44601344      0x2A89000       UBIFS filesystem master node, CRC: 0xEA930A58, highest inode: 66, commit number: 52
+44603392      0x2A89800       UBIFS filesystem master node, CRC: 0x2042B567, highest inode: 66, commit number: 53
+44605440      0x2A8A000       UBIFS filesystem master node, CRC: 0xA03D04BE, highest inode: 66, commit number: 54
+44607488      0x2A8A800       UBIFS filesystem master node, CRC: 0xE5286705, highest inode: 66, commit number: 54
+44609536      0x2A8B000       UBIFS filesystem master node, CRC: 0x4F63020C, highest inode: 66, commit number: 55
+44611584      0x2A8B800       UBIFS filesystem master node, CRC: 0x3984E561, highest inode: 66, commit number: 56
+44613632      0x2A8C000       UBIFS filesystem master node, CRC: 0x76B67F51, highest inode: 66, commit number: 57
+44615680      0x2A8C800       UBIFS filesystem master node, CRC: 0x62E76076, highest inode: 66, commit number: 57
+44617728      0x2A8D000       UBIFS filesystem master node, CRC: 0xD3F44C9C, highest inode: 66, commit number: 58
+44619776      0x2A8D800       UBIFS filesystem master node, CRC: 0x79B12EF9, highest inode: 66, commit number: 59
+44621824      0x2A8E000       UBIFS filesystem master node, CRC: 0x1BC2162, highest inode: 66, commit number: 60
+44623872      0x2A8E800       UBIFS filesystem master node, CRC: 0x15ED3E45, highest inode: 66, commit number: 60
+44625920      0x2A8F000       UBIFS filesystem master node, CRC: 0x2C951799, highest inode: 66, commit number: 61
+44627968      0x2A8F800       UBIFS filesystem master node, CRC: 0x3BA3360D, highest inode: 66, commit number: 62
+44630016      0x2A90000       UBIFS filesystem master node, CRC: 0xCDDE317A, highest inode: 66, commit number: 63
+44632064      0x2A90800       UBIFS filesystem master node, CRC: 0xA4AE02D7, highest inode: 66, commit number: 64
+44634112      0x2A91000       UBIFS filesystem master node, CRC: 0x45547C1A, highest inode: 66, commit number: 65
+44636160      0x2A91800       UBIFS filesystem master node, CRC: 0x9EDE5D8A, highest inode: 66, commit number: 66
+44638208      0x2A92000       UBIFS filesystem master node, CRC: 0x18599EF9, highest inode: 66, commit number: 66
+44640256      0x2A92800       UBIFS filesystem master node, CRC: 0x8A8F42AD, highest inode: 66, commit number: 66
+44642304      0x2A93000       UBIFS filesystem master node, CRC: 0x79C2EC93, highest inode: 66, commit number: 67
+44644352      0x2A93800       UBIFS filesystem master node, CRC: 0x4574C29A, highest inode: 66, commit number: 68
+44646400      0x2A94000       UBIFS filesystem master node, CRC: 0x5125DDBD, highest inode: 66, commit number: 68
+44648448      0x2A94800       UBIFS filesystem master node, CRC: 0xD1FF8B53, highest inode: 66, commit number: 69
+44650496      0x2A95000       UBIFS filesystem master node, CRC: 0xC5AE9474, highest inode: 66, commit number: 69
+44652544      0x2A95800       UBIFS filesystem master node, CRC: 0x9B45448E, highest inode: 66, commit number: 70
+44654592      0x2A96000       UBIFS filesystem master node, CRC: 0xBFD78FDD, highest inode: 66, commit number: 70
+44656640      0x2A96800       UBIFS filesystem master node, CRC: 0xAB129602, highest inode: 66, commit number: 71
+44658688      0x2A97000       UBIFS filesystem master node, CRC: 0xBF438925, highest inode: 66, commit number: 71
+44660736      0x2A97800       UBIFS filesystem master node, CRC: 0xAB2F2A54, highest inode: 66, commit number: 72
+44662784      0x2A98000       UBIFS filesystem master node, CRC: 0x705ABDDE, highest inode: 66, commit number: 72
+44664832      0x2A98800       UBIFS filesystem master node, CRC: 0xD733C6D6, highest inode: 66, commit number: 73
+44695552      0x2AA0000       UBIFS filesystem master node, CRC: 0x1C436DB8, highest inode: 66, commit number: 41
+44697600      0x2AA0800       UBIFS filesystem master node, CRC: 0x107398A5, highest inode: 66, commit number: 41
+44699648      0x2AA1000       UBIFS filesystem master node, CRC: 0x9C83FEFA, highest inode: 66, commit number: 42
+44701696      0x2AA1800       UBIFS filesystem master node, CRC: 0xFD9D7034, highest inode: 66, commit number: 43
+44703744      0x2AA2000       UBIFS filesystem master node, CRC: 0xECF587D5, highest inode: 66, commit number: 44
+44705792      0x2AA2800       UBIFS filesystem master node, CRC: 0xE0C572C8, highest inode: 66, commit number: 44
+44707840      0x2AA3000       UBIFS filesystem master node, CRC: 0xDFBEB0CF, highest inode: 66, commit number: 45
+44709888      0x2AA3800       UBIFS filesystem master node, CRC: 0x853CF234, highest inode: 66, commit number: 46
+44711936      0x2AA4000       UBIFS filesystem master node, CRC: 0xA5440F97, highest inode: 66, commit number: 47
+44713984      0x2AA4800       UBIFS filesystem master node, CRC: 0xA974FA8A, highest inode: 66, commit number: 47
+44716032      0x2AA5000       UBIFS filesystem master node, CRC: 0xD787A700, highest inode: 66, commit number: 48
+44718080      0x2AA5800       UBIFS filesystem master node, CRC: 0xDBB7521D, highest inode: 66, commit number: 48
+44720128      0x2AA6000       UBIFS filesystem master node, CRC: 0xF0A90F36, highest inode: 66, commit number: 49
+44722176      0x2AA6800       UBIFS filesystem master node, CRC: 0x7CBD2BBB, highest inode: 66, commit number: 50
+44724224      0x2AA7000       UBIFS filesystem master node, CRC: 0xC01193BF, highest inode: 66, commit number: 51
+44726272      0x2AA7800       UBIFS filesystem master node, CRC: 0x1B640435, highest inode: 66, commit number: 51
+44728320      0x2AA8000       UBIFS filesystem master node, CRC: 0xE6A3FF45, highest inode: 66, commit number: 52
+44730368      0x2AA8800       UBIFS filesystem master node, CRC: 0x2C72407A, highest inode: 66, commit number: 53
+44732416      0x2AA9000       UBIFS filesystem master node, CRC: 0xE5286705, highest inode: 66, commit number: 54
+44734464      0x2AA9800       UBIFS filesystem master node, CRC: 0xE9189218, highest inode: 66, commit number: 54
+44736512      0x2AAA000       UBIFS filesystem master node, CRC: 0x4353F711, highest inode: 66, commit number: 55
+44738560      0x2AAA800       UBIFS filesystem master node, CRC: 0x35B4107C, highest inode: 66, commit number: 56
+44740608      0x2AAB000       UBIFS filesystem master node, CRC: 0x62E76076, highest inode: 66, commit number: 57
+44742656      0x2AAB800       UBIFS filesystem master node, CRC: 0x6ED7956B, highest inode: 66, commit number: 57
+44744704      0x2AAC000       UBIFS filesystem master node, CRC: 0xDFC4B981, highest inode: 66, commit number: 58
+44746752      0x2AAC800       UBIFS filesystem master node, CRC: 0x6DE031DE, highest inode: 66, commit number: 59
+44748800      0x2AAD000       UBIFS filesystem master node, CRC: 0x15ED3E45, highest inode: 66, commit number: 60
+44750848      0x2AAD800       UBIFS filesystem master node, CRC: 0x19DDCB58, highest inode: 66, commit number: 60
+44752896      0x2AAE000       UBIFS filesystem master node, CRC: 0x38C408BE, highest inode: 66, commit number: 61
+44754944      0x2AAE800       UBIFS filesystem master node, CRC: 0xD2AE8E73, highest inode: 66, commit number: 62
+44756992      0x2AAF000       UBIFS filesystem master node, CRC: 0x88CB52C1, highest inode: 66, commit number: 63
+44759040      0x2AAF800       UBIFS filesystem master node, CRC: 0xB0FF1DF0, highest inode: 66, commit number: 64
+44761088      0x2AB0000       UBIFS filesystem master node, CRC: 0x49648907, highest inode: 66, commit number: 65
+44763136      0x2AB0800       UBIFS filesystem master node, CRC: 0x92EEA897, highest inode: 66, commit number: 66
+44765184      0x2AB1000       UBIFS filesystem master node, CRC: 0x14696BE4, highest inode: 66, commit number: 66
+44767232      0x2AB1800       UBIFS filesystem master node, CRC: 0xAE1D89FE, highest inode: 66, commit number: 66
+44769280      0x2AB2000       UBIFS filesystem master node, CRC: 0x6D93F3B4, highest inode: 66, commit number: 67
+44771328      0x2AB2800       UBIFS filesystem master node, CRC: 0x5125DDBD, highest inode: 66, commit number: 68
+44773376      0x2AB3000       UBIFS filesystem master node, CRC: 0x5D1528A0, highest inode: 66, commit number: 68
+44775424      0x2AB3800       UBIFS filesystem master node, CRC: 0xC5AE9474, highest inode: 66, commit number: 69
+44777472      0x2AB4000       UBIFS filesystem master node, CRC: 0xC99E6169, highest inode: 66, commit number: 69
+44779520      0x2AB4800       UBIFS filesystem master node, CRC: 0xBFD78FDD, highest inode: 66, commit number: 70
+44781568      0x2AB5000       UBIFS filesystem master node, CRC: 0xB3E77AC0, highest inode: 66, commit number: 70
+44783616      0x2AB5800       UBIFS filesystem master node, CRC: 0xBF438925, highest inode: 66, commit number: 71
+44785664      0x2AB6000       UBIFS filesystem master node, CRC: 0xB3737C38, highest inode: 66, commit number: 71
+44787712      0x2AB6800       UBIFS filesystem master node, CRC: 0x705ABDDE, highest inode: 66, commit number: 72
+44789760      0x2AB7000       UBIFS filesystem master node, CRC: 0x7C6A48C3, highest inode: 66, commit number: 72
+44791808      0x2AB7800       UBIFS filesystem master node, CRC: 0xC362D9F1, highest inode: 66, commit number: 73
+
